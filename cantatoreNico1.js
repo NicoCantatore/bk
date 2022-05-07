@@ -86,8 +86,7 @@ console.log((usuario1.mascotas))
 console.log((`la cuenta de mascota es: ${usuario1.countMascotas()}`))
 
 
-usuario2.addBook("Harry Potter y el prisionero de azkaban","j.k. rowling")
-usuario2.addBook("Hfsdfgsfd","j.k. rowling")
+
 console.log((`Nombres array libros: ${usuario2.getBookNames()}`))
 
 
